@@ -1,0 +1,3 @@
+Describe the effect of each of the PID components
+
+The Proportional controller is a real time controller with no history and acts on the cross track error at the immediate present.
